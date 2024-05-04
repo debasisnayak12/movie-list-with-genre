@@ -1,6 +1,5 @@
 # React + Vite
-# Tap to see live
-[click here](https://movie-list-with-genre.vercel.app/)
+# Tap to see live [click here](https://movie-list-with-genre.vercel.app/)
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
